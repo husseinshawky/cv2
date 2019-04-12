@@ -75,7 +75,7 @@ font-family: 'Happy Monkey', cursive;
 
 .aboutMe {
     color: #fff;
-    margin-top: 50px;
+    margin-top: 35px;
 }
 
 .aboutMe i {
@@ -349,13 +349,12 @@ font-family: 'Happy Monkey', cursive;
     
     }
     .contactME {
-        color: rgb(255, 255, 255);
+        color: #fff;
         font-family: 'Hind Siliguri', sans-serif;
         font-size: 16px;
         margin-top: 20px;
-        padding:10px
+        padding:10px 0;
 
-        /* padding-top: 49px; */
     }
     .contactME p {
         margin:0
