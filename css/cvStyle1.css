@@ -351,13 +351,15 @@ font-family: 'Happy Monkey', cursive;
     .contactME {
         color: #fff;
         font-family: 'Hind Siliguri', sans-serif;
-        font-size: 16px;
         margin-top: 20px;
         padding:10px 0;
 
     }
     .contactME p {
-        margin:0
+        font-size: 14px;
+
+        margin:0;
+        padding:0;
     }
  }
 
